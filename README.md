@@ -7,5 +7,6 @@
 
 ## Ideation Phase
 
+* [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Ideation%20Phase/Problem%20Statement.pdf)
 * [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Ideation%20Phase/literature%20survey%20for%20plasma%20donor%20application.pdf)
 * [Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Ideation%20Phase/Plasma%20Donor%20Empathy%20Map.png)
