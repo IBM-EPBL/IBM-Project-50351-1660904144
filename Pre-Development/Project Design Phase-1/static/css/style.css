@@ -1,0 +1,26 @@
+table{
+    border-spacing: 20px;
+}
+
+.un{
+    border-radius: 8px;
+    padding: 5px;
+    max-width: 20rem;
+}
+
+.submit {
+    cursor: pointer;
+      border-radius: 5em;
+      color: #fff;
+      background: linear-gradient(to right, #8a2323, #fe1d1d);
+      border: 0;
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      margin-top: 10px;
+      font-family: 'Ubuntu', sans-serif;
+      font-size: 13px;
+      font-weight: bolder;
+      box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+  }

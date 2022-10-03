@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/style.css') }}">
+  </head>
+  <body>
+    {% extends "template.html" %}
+    {% block content %}
+    
+    <h1> Personal Information </h1><br>
+
+    <form class="form1" action="" method="get">
+        <table>
+            <tr>
+                <td>
+                    <label for="name">Name </label>
+                </td>
+                <td>
+                    <input class="un" id = "name" name="name" type="text" align="center" placeholder="Name" value="{{ account['NAME'].strip() }}">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="email">Email ID </label>
+                </td>
+                <td>
+                    <input class="un" id = "email" name="email" type="email" align="center" placeholder="Email ID" value="{{ account['EMAIL'].strip() }}">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="dob">Date of Birth </label>
+                </td>
+                <td>
+                    <input class="un" id = "dob" name="dob" type="text" onblur="(this.type='text')" onfocus="(this.type = 'date')"  id="date" align="center" placeholder="Date of Birth" value="{{ account['DOB'].strip() }}">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="age">Age </label>
+                </td>
+                <td>
+                    <input class="un" id = "age" name="age" type="text" align="center" placeholder="Age">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="blood_type">Blood Type </label>
+                </td>
+                <td>
+                    <input class="un" id = "blood_type" name="blood_type" type="text" align="center" placeholder="Blood Type">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" class="submit" align="center"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+    {% endblock %}
+  </body>
+</html>
