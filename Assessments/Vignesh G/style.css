@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+
+body{
+	height:100vh;
+	background: rgba(241,231,103,1);
+background: -moz-linear-gradient(-45deg, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(241,231,103,1)), color-stop(100%, rgba(254,182,69,1)));
+background: -webkit-linear-gradient(-45deg, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+background: linear-gradient(135deg, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#feb645', GradientType=1 );	
+}
+.simpleLogin {
+ 
+}
+.simpleLogin form {
+  max-width: 400px;
+  margin: auto;
+  background:#fefefd;
+
+  box-shadow: 0 10px 10px #222;
+}
+
+.simpleLogin form fieldset {
+    border: 0 none;
+    margin: 0;
+    padding: 20px;
+}
+.simpleLogin form legend,
+.simpleLogin form fieldset input {
+  font-family: Open Sans;
+  font-size:15px;
+}
+
+.simpleLogin form legend {
+    background-color: #8fc400;
+    border-top: 0 none;
+    color: white;
+    display: table-cell;
+    padding: 10px 20px;
+    width: auto;
+}
+.simpleLogin form fieldset input {
+  width: 90%;
+  margin: 10px 0;
+  padding: 10px 5%;
+  border: thin #8fc400 solid;
+}
+.simpleLogin input[type="submit"] {
+  width: 100px;
+  float: right;
+  background: #8fc400;
+  color: white;
+  transition: .2s;
+  border: 0;
+  cursor:pointer;
+}
+
+
+.simpleLogin input[type="submit"]:focus,
+.simpleLogin input[type="submit"]:hover, 
+.simpleLogin input[type="submit"]:active {
+  padding: 10px 5%;
+  background:#B3E226;
+  outline: none;
+}
