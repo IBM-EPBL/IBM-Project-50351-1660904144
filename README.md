@@ -21,3 +21,6 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 * [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Design%20Phase-1/Proposed%20Solution.pdf)
 * [Problem Solution Fit](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Design%20Phase-1/Problem-Solution%20Fit.pdf)
 * [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Design%20Phase-1/Solution%20Architecture.pdf)
+
+## Project Design Phase-2
+* [Data Flow Diagram](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Design%20Phase-2/Data%20Flow%20Diagram.pdf)
