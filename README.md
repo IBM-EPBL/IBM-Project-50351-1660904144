@@ -18,7 +18,6 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 
 ## Project Design Phase-1
 
-* [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Ideation%20Phase/Problem%20Statement.pdf)
-* [Problem Solution Fir](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Ideation%20Phase/literature%20survey%20for%20plasma%20donor%20application.pdf)
-* [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Ideation%20Phase/Plasma%20Donor%20Empathy%20Map.png)
-* [Brain Storming & Idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Ideation%20Phase/Brain%20Storming%20%26%20Idea%20Prioritization.pdf)
+* [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Design%20Phase-1/Proposed%20Solution.pdf)
+* [Problem Solution Fit](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Design%20Phase-1/Problem-Solution%20Fit.pdf)
+* [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Design%20Phase-1/Solution%20Architecture.pdf)
