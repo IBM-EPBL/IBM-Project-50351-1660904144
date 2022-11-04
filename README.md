@@ -27,3 +27,10 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 * [Customer Journey](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Design%20Phase-2/Customer%20Jorney.pdf)
 * [Functional Architecture](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Design%20Phase-2/Functional%20Architecture.pdf)
 * [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Design%20Phase-2/Technology%20Stack.pdf)
+
+## Project Planning
+* [Project Planning and Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/blob/main/Pre-Development/Project%20Planning/Project%20Planning%20Template.pdf)
+
+# Project Development Phase
+* [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/tree/main/Project%20Development%20Phase/Sprint%201)
+* [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-50351-1660904144/tree/main/Project%20Development%20Phase/Sprint%202)
