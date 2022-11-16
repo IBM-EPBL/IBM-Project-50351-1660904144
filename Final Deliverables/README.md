@@ -20,8 +20,8 @@ Plasma Donor Application
 
 <table>
   <tr>
-    <td><img src="Screenshots/Login.JPG" width=1070 height=480></td>
-    <td><img src="Screenshots/Signup.JPG" width=1070 height=480></td>
+    <td><img src="Screenshots/Login.JPG" width=1270 height=280></td>
+    <td><img src="Screenshots/Signup.JPG" width=1270 height=280></td>
     <td><img src="Screenshots/Dashboard.JPG" width=270 height=480></td>
   </tr>
   <tr>
