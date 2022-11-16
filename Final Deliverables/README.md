@@ -5,8 +5,7 @@ Plasma Donor Application
 
 ## Screenshots
 
-![Login](Screenshots/Login.JPG)
-![Signup](Screenshots/Signup.JPG)
+![Login](Screenshots/Login.JPG) ![Signup](Screenshots/Signup.JPG)
 ![Dashboard](Screenshots/Dashboard.JPG)
 ![Search](Screenshots/Search.JPG)
 ![Available Donors](Screenshots/Available%20Donors.JPG)
