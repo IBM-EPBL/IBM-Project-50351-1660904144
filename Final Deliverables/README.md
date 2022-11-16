@@ -23,12 +23,18 @@ Plasma Donor Application
     <td><img src="Screenshots/Login.JPG" width=270 height=480></td>
     <td><img src="Screenshots/Signup.JPG" width=270 height=480></td>
     <td><img src="Screenshots/Dashboard.JPG" width=270 height=480></td>
+  </tr>
+  <tr>
     <td><img src="Screenshots/Search.JPG" width=270 height=480></td>
     <td><img src="Screenshots/Available%20Donors.JPG" width=270 height=480></td>
     <td><img src="Screenshots/Request.JPG" width=270 height=480></td>
+  </tr>
+  <tr>
     <td><img src="Screenshots/Db%20Tables.JPG" width=270 height=480></td>
     <td><img src="Screenshots/Account.JPG" width=270 height=480></td>
     <td><img src="Screenshots/Requested.JPG" width=270 height=480></td>
+  </tr>
+  <tr>
     <td><img src="Screenshots/Requests.JPG" width=270 height=480></td>
   </tr>
  </table>
