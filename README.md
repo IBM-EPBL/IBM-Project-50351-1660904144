@@ -5,6 +5,9 @@
 
 <p align="center" >Web Application for Plasma Donation</p>
 
+[Demo Video Link](https://drive.google.com/file/d/1ZL4vQMQl0Ef-mJ_pD7S9XP6b90jEDo7-/view?usp=sharing)<br/><br/>
+[Demo Link](http://169.51.205.192:30310/)
+
 ## Problem Statement
 
 During the COVID 19 crisis, the requirement of plasma became a high priority and the donor count has become low. Saving the donor information and helping the needy by notifying the current donors list, would be a helping hand. In regard to the problem faced, an application is to be built which would take the donor details, store them and inform them upon a request.
