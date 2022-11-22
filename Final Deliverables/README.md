@@ -3,6 +3,9 @@ Plasma Donor Application
 
 * [Demo Video Link - https://drive.google.com/file/d/1ZL4vQMQl0Ef-mJ_pD7S9XP6b90jEDo7-/view?usp=sharing](https://drive.google.com/file/d/1ZL4vQMQl0Ef-mJ_pD7S9XP6b90jEDo7-/view?usp=sharing)
 
+Deployed Application
+* [Demo Link](http://169.51.205.192:30310/)
+
 ## Screenshots
 
 ![Login](Screenshots/Login.JPG) ![Signup](Screenshots/Signup.JPG)
